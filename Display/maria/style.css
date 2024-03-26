@@ -1,0 +1,18 @@
+
+.table {
+    display: table;
+    width: 100%;
+}
+
+
+.row {
+    display: table-row;
+}
+
+
+.dis {
+    display: table-cell;
+    border: 1px solid #f71197;
+    padding: 5px;
+    text-align: center;
+}

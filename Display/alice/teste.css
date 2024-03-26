@@ -1,0 +1,17 @@
+.teste{
+    background-color:orange;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+#block{
+    display: block flex;
+    background-color: black;
+}
+
+
+header{
+    text-align: center;
+ 
+}
